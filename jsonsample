@@ -1,0 +1,47 @@
+(1)querymycontracts:
+
+[{
+	"Key": "22e86cbb-2514-4327-8bfa-c82311f75a49",
+	"Record": {
+		"contract_id": "22e86cbb-2514-4327-8bfa-c82311f75a49",
+		"image_accepter": "chongwang",
+		"image_hash": "vfdvfdvfvdvdvdewdwd",
+		"image_name": "bigworld",
+		"image_sender": "wangchong",
+		"image_user": "wangchong",
+		"object_type": "imagedemo",
+		"time_stamp": "1547026160569124802"
+	}
+}, {
+	"Key": "52f3da4b-fa41-4230-9dfb-d6aa5229fbe5",
+	"Record": {
+		"contract_id": "52f3da4b-fa41-4230-9dfb-d6aa5229fbe5",
+		"image_accepter": "chongwang1",
+		"image_hash": "vfdvfdvfvdvdvdewdwd",
+		"image_name": "bigworld",
+		"image_sender": "wangchong",
+		"image_user": "wangchong",
+		"object_type": "imagedemo",
+		"time_stamp": "1547026175113055260"
+	}
+}]
+
+
+
+
+(2)querydetails:
+{
+	"contractID": "f9c8eb68-0730-4ac6-aea2-f1d54e1d7168",
+	"txID": "e0474e608a19093063c7522b9824257fe9f49341409315ffe5b0b4b635ddfe87",
+	"data": {
+		"contract_id": "f9c8eb68-0730-4ac6-aea2-f1d54e1d7168",
+		"image_accepter": "chongwang",
+		"image_hash": "1234ergergdgdfgdfgdf",
+		"image_name": "sea",
+		"image_sender": "wangchong",
+		"image_user": "wangchong",
+		"object_type": "imagedemo",
+		"time_stamp": "1547041546963895209"
+	}
+}
+
